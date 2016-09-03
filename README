@@ -1,0 +1,5 @@
+fatfish
+=======
+A simple desktop search engine.
+
+This project was created as a lighter alternative to catfish that doesn't require GTK+3.
